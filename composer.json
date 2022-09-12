@@ -1,0 +1,11 @@
+{
+
+  "autoload": {
+    "psr-4": {
+      "vpoger\\": "vendor/vproger",
+      "app\\": "app"
+    }
+  },
+  "require": {
+  }
+}
