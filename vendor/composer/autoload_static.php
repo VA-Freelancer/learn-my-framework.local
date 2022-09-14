@@ -9,7 +9,7 @@ class ComposerStaticInit9016d3abd5eafaf8e580d44f3c9ba8d9
     public static $prefixLengthsPsr4 = array (
         'v' => 
         array (
-            'vpoger\\' => 7,
+            'vproger\\' => 8,
         ),
         'a' => 
         array (
@@ -18,7 +18,7 @@ class ComposerStaticInit9016d3abd5eafaf8e580d44f3c9ba8d9
     );
 
     public static $prefixDirsPsr4 = array (
-        'vpoger\\' => 
+        'vproger\\' => 
         array (
             0 => __DIR__ . '/..' . '/vproger',
         ),

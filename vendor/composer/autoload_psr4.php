@@ -6,6 +6,6 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'vpoger\\' => array($vendorDir . '/vproger'),
+    'vproger\\' => array($vendorDir . '/vproger'),
     'app\\' => array($baseDir . '/app'),
 );
